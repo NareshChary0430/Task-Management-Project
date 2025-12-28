@@ -189,7 +189,7 @@ git --version
 ## 📦 Step 1: Clone the Repository
 
 ``` bash
-git clone <>
+git clone <https://github.com/NareshChary0430/Task-Maganement-App.git>
 cd Task-Management-Project
 ```
 
